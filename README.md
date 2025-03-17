@@ -7,11 +7,15 @@ This repository contains the comprehensive QA test plan, manual test cases, API 
 ```
 📂 tanami-qa-task/
 │── 📂 docs/                  # Documentation Files
+│    ├── Selenium_Automation_Script.pdf
+│    ├── Bonus_Tasks.pdf
 │    ├── Comprehensive_Test_Plan.pdf
 │    ├── Detailed_Manual_Test_Cases.pdf
 │    ├── API_Testing_Strategy.pdf
 │── 📂 automation/            # Selenium Automation Scripts
 │    ├── test_successful_payment.py
+│    ├── test_data.json
+│    ├── test_logs.log
 │── README.md                 # Project Overview & Setup Instructions
 ```
 

@@ -1,0 +1,54 @@
+2025-03-17 09:52:07,663 - INFO - Opened Payment Page
+2025-03-17 09:52:11,280 - ERROR - Test Failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A43CFE45+26629]
+	(No symbol) [0x00007FF6A4336010]
+	(No symbol) [0x00007FF6A41C931A]
+	(No symbol) [0x00007FF6A41B4F65]
+	(No symbol) [0x00007FF6A41D9E04]
+	(No symbol) [0x00007FF6A424F85F]
+	(No symbol) [0x00007FF6A426FA55]
+	(No symbol) [0x00007FF6A4247883]
+	(No symbol) [0x00007FF6A4210550]
+	(No symbol) [0x00007FF6A4211803]
+	GetHandleVerifier [0x00007FF6A47272BD+3529853]
+	GetHandleVerifier [0x00007FF6A473DA22+3621858]
+	GetHandleVerifier [0x00007FF6A47324D3+3575443]
+	GetHandleVerifier [0x00007FF6A449B77A+860474]
+	(No symbol) [0x00007FF6A434088F]
+	(No symbol) [0x00007FF6A433CBC4]
+	(No symbol) [0x00007FF6A433CD66]
+	(No symbol) [0x00007FF6A432C2C9]
+	BaseThreadInitThunk [0x00007FFD54917344+20]
+	RtlUserThreadStart [0x00007FFD54CA26B1+33]
+
+2025-03-17 09:52:13,486 - INFO - Browser closed.
+2025-03-17 09:52:48,982 - INFO - Opened Payment Page
+2025-03-17 09:52:51,618 - ERROR - Test Failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A43CFE45+26629]
+	(No symbol) [0x00007FF6A4336010]
+	(No symbol) [0x00007FF6A41C931A]
+	(No symbol) [0x00007FF6A41B4F65]
+	(No symbol) [0x00007FF6A41D9E04]
+	(No symbol) [0x00007FF6A424F85F]
+	(No symbol) [0x00007FF6A426FA55]
+	(No symbol) [0x00007FF6A4247883]
+	(No symbol) [0x00007FF6A4210550]
+	(No symbol) [0x00007FF6A4211803]
+	GetHandleVerifier [0x00007FF6A47272BD+3529853]
+	GetHandleVerifier [0x00007FF6A473DA22+3621858]
+	GetHandleVerifier [0x00007FF6A47324D3+3575443]
+	GetHandleVerifier [0x00007FF6A449B77A+860474]
+	(No symbol) [0x00007FF6A434088F]
+	(No symbol) [0x00007FF6A433CBC4]
+	(No symbol) [0x00007FF6A433CD66]
+	(No symbol) [0x00007FF6A432C2C9]
+	BaseThreadInitThunk [0x00007FFD54917344+20]
+	RtlUserThreadStart [0x00007FFD54CA26B1+33]
+
+2025-03-17 09:52:53,802 - INFO - Browser closed.

@@ -1,0 +1,7 @@
+{
+  "username": "testuser",
+  "password": "securepassword",
+  "card_number": "4111111111111111",
+  "expiry_date": "12/25",
+  "cvv": "123"
+}

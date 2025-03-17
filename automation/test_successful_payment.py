@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 import logging
 import time
+import os
 
 # Configure logging
 logging.basicConfig(filename="test_logs.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
